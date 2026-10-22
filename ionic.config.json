@@ -1,0 +1,7 @@
+{
+  "name": "camara-fotos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
